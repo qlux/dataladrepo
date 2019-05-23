@@ -68,3 +68,6 @@
 [submodule "Places2"]
 	path = Places2
 	url = ./Places2
+[submodule "places2"]
+	path = places2
+	url = ./places2
