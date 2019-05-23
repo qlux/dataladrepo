@@ -65,3 +65,6 @@
 [submodule "templateflow"]
 	path = templateflow
 	url = https://github.com/templateflow/templateflow
+[submodule "Places2"]
+	path = Places2
+	url = ./Places2
